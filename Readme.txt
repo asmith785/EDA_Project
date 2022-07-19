@@ -1,0 +1,3 @@
+﻿Intro:
+For this project
+I conducted a thorough exploratory data analysis on “New York City Hate Crimes” using a data set provided from New York City open data. Throughout the past two years there have been an increase reporting on the news and social media regarding hate crimes targeted to various groups regarding their sexual gender and race. One of my main goals is to see if there was an increase or decrease in hate crimes within the past three years ( For example against asians and african americans).
